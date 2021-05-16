@@ -29,5 +29,4 @@ class CashRegister
     #last_transaction.clear
   end
 
-end 
-
+end
